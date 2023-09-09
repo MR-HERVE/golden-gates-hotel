@@ -50,7 +50,7 @@ The website is developed by :
 1. [John mutua](https://github.com/Issa783)
 2. [Morris muia](https://github.com/morrismuia)
 3. [levin mwange](https://github.com/MwangeLee)
-4. Herve Irakiza
+4. [Herve Irakiza](https://github.com/MR-HERVE)
 
 ## Contributions
 Contributions are welcome feel free to open a pull request.
